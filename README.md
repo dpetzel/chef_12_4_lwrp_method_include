@@ -1,4 +1,4 @@
 # chef_12_4_lwrp_method_include
 
-TODO: Enter the cookbook description here.
+Illustrate https://github.com/chef/chef/issues/3607
 
