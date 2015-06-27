@@ -1,0 +1,7 @@
+name 'lwrp_example'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures chef_12_4_lwrp_method_include'
+long_description 'Installs/Configures chef_12_4_lwrp_method_include'
+version '0.1.0'
